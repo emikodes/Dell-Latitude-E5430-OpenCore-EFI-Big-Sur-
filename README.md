@@ -5,6 +5,7 @@ OpenCore EFI for Dell Latitude E5430 **(vPro, i5-3380m)**
 **Tested on Mac OS Big Sur**, Fully working + iServices.
 
 This was my first time ever making an EFI, with lots of errors and unused entries.
+
 Take this repository as an example to follow, but *I would not personally recommend using this as is.*
 
 Disclaimer: I'm not responsible for any damage you may cause, use this at your own risk (I Strongly recommend making your own EFI).
