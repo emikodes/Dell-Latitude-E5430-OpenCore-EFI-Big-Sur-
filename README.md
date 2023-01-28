@@ -1,5 +1,7 @@
 
 # Dell Latitude E5430 OpenCore EFI Big Sur
+
+<img src="https://www.notebookcheck.it/uploads/tx_nbc2/dellE5430.jpg" alt="Dell Latitude E5430 image"/>
 OpenCore EFI for Dell Latitude E5430 **(vPro, i5-3380m)**
 
 **Tested on Mac OS Big Sur**, Fully working + iServices.
